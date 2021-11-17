@@ -33,9 +33,11 @@ We will not have a dedicated computer lab. As such, students in this elective wi
 #### Operating Systems
 
 1. Microsoft Windows
+   
    The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
 2. Ubuntu 20.04 and 22.04
+   
    Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this device.
 
 3. 
