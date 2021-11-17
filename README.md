@@ -7,27 +7,38 @@
 
 ### Course
 
-The course I will be teaching is an elective titled "Introduction to Coding". This course will focus on introducing the basics of programming using the Ozaria curriculum and the python language. There will be modules covering the following concepts:
+The course I will be teaching is a grades 6 through 8 elective titled "Introduction to Coding". This course will focus on introducing the basics of programming using the Ozaria curriculum and the python language. There will be modules delving into the following concepts:
 - Algorithms
 - Debugging
-- Imapcts of Computing
+- Impacts of Computing
 - Variables
-- Conditions
+- Conditionals
+- Networks and the Internet
+- Loops
+- Computing Systems
+- Data and Analysis
+- Functions
 
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past. 
+
+We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. We do have one to one chromebook access for all students, but chromebooks may experience slow down in later modules of Ozaria. I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
 
 ## Plan
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+#### Operating Systems
+
+1. Microsoft Windows
+   The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
+
+2. Ubuntu 20.04 and 22.04
+   Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this device.
+
+3. 
 
 ### Hardware Specifications
 
