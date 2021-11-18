@@ -128,7 +128,7 @@ For synchronous distance learning the teacher would meet with students 3 times p
 
 For asynchronous learning the teacher would record videos demonstrating new skills and short videos of lecture on topics. Students would work on tasks at their own pace emailing the teacher with questions and to set up 1 on 1 and small group google meet sessions.
 
-It is projected that the transition to distance learning for this elective would be much easier to accomplish than a typical general education class and that the computerized nature of this class would adapt well to either distance learning model.
+It is projected that the transition to distance learning for this elective would be much easier to accomplish than a typical general education class and that the computerized nature of this class would adapt well to either distance learning model. It is unclear if a teacher without a background in computer science could successfully complete this transition.
 
 #### Ethical and Social Issues
 
