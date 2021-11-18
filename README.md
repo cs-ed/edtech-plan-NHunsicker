@@ -2,7 +2,8 @@
 
 This Educational Technology Plan provides an outline for implementing a new introductory programming course at Chico Country Day School.
 
-| ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg) | ![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-logo.svg) |
+| ![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png)  | ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg) |
+| ---------------- | --------------- |
 
 ## Context
 
