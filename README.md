@@ -50,7 +50,7 @@ The teacher of this course could use any of the options below. Any operating sys
 
 The vast majority of the work that we do will be completed in websites. It is expected that students will not need to use software outside of their web browser to complete this course.
 
-1. **Ozaria** - This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
+1. **Ozaria** - ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg)This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
 
 3. **Altitude Learning** - Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
 
