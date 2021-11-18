@@ -1,7 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6369468&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-
+This Educational Technology Plan provides an outline for implementing a new introductory programming course at Chico Country Day School.
 
 ## Context
 
@@ -113,7 +112,30 @@ Assessments will be handled within Ozaria itself. The teacher will be able to se
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+#### Modifications and Accommadations for students with an IEP or 504
+
+The curriculum and software provides immediate and direct feedback to students both visually and with audio cues. Students who are visually impaired may struggle in this course as the curriculum does not appear to function without viewing a graphical display. Despite this, the curriculum does provide alternate offline versions of the lessons. **In the event that a visually impaired student takes this class I believe that it would be possible, with assistance of an education specialist, to modify the majority of the curriculum for some form of offline physical interaction.**
+
+While there is extensive reading in the curriculum and software, **all instructions within the software seem to also be given verbally.** A student with dyslexia or a dyslexia adjacent specific learning disability would have access to the instructions in multiple formats. **It may be necessary to use speech recognition software for students with some learning disabilities.**
+
+It is not projected that other accommodations for modifications will be necessary, though it is anticipated that some students will require more direct instruction, scaffolding, and intervention than is typical. None of the software or technology listed within this section is included elsewhere in this document because it is anticipated that those pieces of technology will already be in place for the student for general education coursework.
+
+#### Transition to Distance Learning Model
+
+All electives were suspended when Chico Country Day transitioned to distance learning in March of 2020. Electives were started again only when it returned to full capacity at the beginning of the 2021-2022 school year. **It is anticipated that electives will be suspended again if Chico Country Day transitions back to distance learning.** In the event that Chico Country Day transitions to distance learning, it is possible that **this elective could transition to a school sanctioned and funded "club".**
+
+For synchronous distance learning the teacher would meet with students 3 times per week to introduce concepts and tasks and then have students work through the task while maintaining a google meet link for students who need additional guidance during their task.
+
+For asynchronous learning the teacher would record videos demonstrating new skills and short videos of lecture on topics. Students would work on tasks at their own pace emailing the teacher with questions and to set up 1 on 1 and small group google meet sessions.
+
+It is projected that the transition to distance learning for this elective would be much easier to accomplish than a typical general education class and that the computerized nature of this class would adapt well to either distance learning model.
+
+#### Ethical and Social Issues
+
+Electives are taught as quarter or semester lengths at Chico Country Day. In the first and last quarter of the year 8th grade gets priority for choosing their electives. In the second quarter 7th grade gets priority and in the third semester 6th grade gets priority. With a year long elective, students in 6th and 7th grade may not end up having access to the elective. It is projected that the class will not be entirely full of 8th grade students, but this structure does create equity issues. This can be somewhat alleviated by running this elective for multiple years in a row, but **there will always be a group of younger students who may end up being excluded if this elective doesn't run each year.**
+
+**Students who have fallen behind in general education classes are often pulled from electives to complete work for general education.** This could create situations that would cause students to fall behind in this elective without doing course work as homework. **It is unclear if there is a work around for solving this issue.** In the event that Chico Country Day decides to pursue this course a dilemma protocol meeting will likely be needed to determine how to solve this issue.
+
+**Often times future electives are only planned one quarter in advance.** This can lead to situations where students feel like they cannot sign up for a long elective or end up wanting to leave a long term commitment elective. Releasing students from longer electives has always been done at the discretion of the teacher, but **it is unclear what this impact could be with the school paying a subscription fee for students to participate in this elective.**
+
+**Students at Chico Country Day only get one elective at a time.** Since students only have one elective at a time, it is not possible for students taking this course to take other equally exciting courses. There is likely a possiblity to run a "club" version of this elective as well, but the instructor for this course doesn't currently have the capacity to take on additional responsibilities for the school.
