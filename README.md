@@ -19,6 +19,7 @@ The course I will be teaching is a grades 6 through 8 elective titled "Introduct
 - Data and Analysis
 - Functions
 
+This course will be taught as a single year long elective meeting 3 days per week for 55 minutes per day.
 
 ### Situation
 
@@ -26,28 +27,87 @@ Chico Country Day School is a K-8 charter school located in Chico, CA. Our middl
 
 We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. We do have one to one chromebook access for all students, but chromebooks may experience slow down in later modules of Ozaria. I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
 
+At Chico Country Day electives are the last class period of the day on Tuesday, Wednesday, and Thursday afternoons. It is projected that we will have approximately 90 electives meetings within a school year and the selected curriculum is made up of 85 lessons. This will leave room for 1 or 2 field trips and/or space to provide additional work time if necessary.
+
 ## Plan
 
 ### Software Specifications
 
 #### Operating Systems
 
+The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. The primary website used for this course does NOT support iOS or Android. It is expected that students will be using chromebooks since students are provided access to chromebooks.
+
 1. Microsoft Windows
    
    The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
-2. Ubuntu 20.04 and 22.04 test
+2. Ubuntu 20.04 and 22.04
    
-   Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this device.
+   Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
 
-3. 
+3. Chrome OS
+   
+   The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
+   
+#### Websites
+
+1. Ozaria
+
+   This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is unclear whether we will be able to reach the end of this curriculum within a single school year, though I do not intend to try and have a second course currently.
+
+3. Altitude Learning
+
+   Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
+
+4. Google, Google Scholar, wikipedia, and Google Slides
+
+   Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
+
+5. Go Guardian
+
+   During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
+
+6. OBS Studio, Google Meet, and Google Jamboard
+   
+   In the event that we go back into distance learning I will be utilizing these tools to create videos for students and to currate my presentations to students. OBS Studio allows me extensive control over my webcam since it can be used as a software defined webcam. I found more success using Google Meet than I did using Zoom during previous distance learning experiences, though it serves the same purpose. Google Jamboard provides a collaborative whiteboard workspace for the class.
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+#### Teacher Hardware
+
+Any computer capable of running modern browsers and with ideally at least 4 GB of RAM. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables.
+
+#### Classroom Hardware
+
+The school currently has wifi available throughout the school. The internet connection appears to go through comcast at some point based upon traceroute command. Speed tests indicate that the speed should be more that sufficient for a class full of students working on this elective. A minimum of 200 Kbps bandwidth per student is required for Ozaria to function, though bandwidth in excess of 1 Mbps is recommended.
+
+Wired computer mice will be available to students who would prefer not to use touchpads.
+
+There is a wall mounted television that will be used to display content for the entire class during discussions. In other spaces this could be replaced with a projector.
+
+A white board and accessories for writing pseudocode and making lists of ideas from discussions is also necessary.
+
+#### Student Hardware
+
+Students will use chromebooks. Most chromebooks that the school has and issues will run Ozaria. Ozaria's primary instruction about chromebooks is that any chromebooks with only 2GB of RAM may experience minor graphics issues in later units.
 
 ### Application
+
+#### Class Structure
+
+Classes will be a mixture of whole class discussion, small group discussion and research, and individual practice.
+
+Most topics and lessons will be introduced in a whole class discussion format. We will use slides provided by the curriculum, and modified by the teacher, to help guide us during this time. Many topics will also end with us returning to this format. We will be displaying these slides on a television or projector using the teacher computer.
+
+Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
+
+Most lessons involve some amount of practice through Ozaria. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention.
+
+It is not anticipated that any homework will be assigned, though it is plausible that we would take 1 or 2 field trips that may require permission slips.
+
+It is not projected that we will have other types of assignments in this class.
+
+Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not typically include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so grade reporting will not be done. Assessment will be solely used to determine when to move into more advanced topics.
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
