@@ -34,40 +34,25 @@ At Chico Country Day electives are the last class period of the day on Tuesday, 
 
 #### Operating Systems
 
-The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. The primary website used for this course does NOT support iOS or Android. It is expected that students will be using chromebooks since students are provided access to chromebooks.
+The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. **The primary website used for this course does NOT support *iOS* or *Android*. It is unclear whether touch input is supported.** It is expected that students will be using chromebooks since students are provided access to chromebooks.
 
-**1. Microsoft Windows**
-   The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
+**1. Microsoft Windows** - The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
-**2. Ubuntu 20.04 and 22.04**
-   
-   Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
+**2. Ubuntu 20.04 and 22.04** - Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
 
-**3. Chrome OS**
-   
-   The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
+**3. Chrome OS** - The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
    
 #### Websites
 
-**1. Ozaria**
+**1. Ozaria** - This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
 
-   This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
+**3. Altitude Learning** - Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
 
-**3. Altitude Learning**
+**4. Google, Google Scholar, wikipedia, and Google Slides** - Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
 
-   Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
+**5. Go Guardian** - During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
 
-**4. Google, Google Scholar, wikipedia, and Google Slides**
-
-   Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
-
-**5. Go Guardian**
-
-   During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
-
-**6. OBS Studio, Google Meet, and Google Jamboard**
-   
-   In the event that we go back into distance learning I will be utilizing these tools to create videos for students and to currate my presentations to students. OBS Studio allows me extensive control over my webcam since it can be used as a software defined webcam. I found more success using Google Meet than I did using Zoom during previous distance learning experiences, though it serves the same purpose. Google Jamboard provides a collaborative whiteboard workspace for the class.
+**6. OBS Studio, Google Meet, and Google Jamboard** - In the event that we go back into distance learning I will be utilizing these tools to create videos for students and to currate my presentations to students. OBS Studio allows me extensive control over my webcam since it can be used as a software defined webcam. I found more success using Google Meet than I did using Zoom during previous distance learning experiences, though it serves the same purpose. Google Jamboard provides a collaborative whiteboard workspace for the class.
 
 ### Hardware Specifications
 
