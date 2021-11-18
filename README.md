@@ -36,23 +36,30 @@ At Chico Country Day electives are the last class period of the day on Tuesday, 
 
 The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. **The primary website used for this course does NOT support *iOS* or *Android*. It is unclear whether touch input is supported.** It is expected that students will be using chromebooks since students are provided access to chromebooks.
 
-**1. Microsoft Windows** - The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
+1. **Microsoft Windows** - The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
-**2. Ubuntu 20.04 and 22.04** - Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
+2. **Ubuntu 20.04 and 22.04** - Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
 
-**3. Chrome OS** - The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
+3. **Chrome OS** - The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
    
+#### Specific Software
+
+**OBS Studio** allows extensive control over the webcam since it can be used as a software defined webcam. This software also allows the teacher to compose scenes that can be used as a webcam and also to record videos for distribution to students who are working asynchronously.
+
 #### Websites
 
-**1. Ozaria** - This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
+The vast majority of the work that we do will be completed in websites. It is expected that students will not need to use software outside of their web browser to complete this course.
 
-**3. Altitude Learning** - Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
+1. **Ozaria** - This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
 
-**4. Google, Google Scholar, wikipedia, and Google Slides** - Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
+3. **Altitude Learning** - Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
 
-**5. Go Guardian** - During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
+4. **Google, Google Scholar, wikipedia, and Google Slides** - Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
 
-**6. OBS Studio, Google Meet, and Google Jamboard** - In the event that we go back into distance learning I will be utilizing these tools to create videos for students and to currate my presentations to students. OBS Studio allows me extensive control over my webcam since it can be used as a software defined webcam. I found more success using Google Meet than I did using Zoom during previous distance learning experiences, though it serves the same purpose. Google Jamboard provides a collaborative whiteboard workspace for the class.
+5. **Go Guardian** - During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
+
+6. **Google Meet and Google Jamboard** - In the event that we go into distance learning I will use these tools to interact with students online. I have had more success with Google Meet than I have had with Zoom especially when integrating Google Jamboard.
+
 
 ### Hardware Specifications
 
@@ -61,6 +68,8 @@ The teacher of this course could use any of the options below. Any operating sys
 Any computer capable of running **modern browsers** and with ideally at least **4 GB of RAM**. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables.
 
 #### Classroom Hardware
+
+Additional hardware and infrastructure should not be necessary to run this elective at Chico Country Day.
 
 1. The school currently has wifi available throughout the school. The internet connection appears to go through comcast at some point based upon traceroute command. Speed tests indicate that the speed should be more that sufficient for a class full of students working on this elective. A **minimum of 200 Kbps bandwidth per student is required for Ozaria to function**, though bandwidth in excess of 1 Mbps is recommended.
 
@@ -80,11 +89,11 @@ Students will use chromebooks. All chromebooks that the school has, and issues t
 
 Classes will be a mixture of whole class discussion, small group discussion and research, and individual practice.
 
-- Most topics and lessons will be introduced in a whole class discussion format. We will use slides provided by the curriculum, and modified by the teacher, to help guide us during this time. Many topics will also end with us returning to this format for a recap of the skills that we practiced. This format should present an opportunity to front load any prior knowledge that students will need and also close with a recap of what the big ideas of the lesson were. We will be displaying these slides on a television or projector using the teacher computer.
+1. Most topics and lessons will be introduced in a whole class discussion format. We will use slides provided by the curriculum, and modified by the teacher, to help guide us during this time. Many topics will also end with us returning to this format for a recap of the skills that we practiced. This format should present an opportunity to front load any prior knowledge that students will need and also close with a recap of what the big ideas of the lesson were. We will be displaying these slides on a television or projector using the teacher computer.
 
-- Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
+2. Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
 
-- Most lessons involve some amount of practice through Ozaria. During some lessons students may end up working in pairs on these assignments. It is anticipated that some of the more advanced students will voluntarily mentor other students during this time as well. The curriculum also includes extension acitivities for students that finish early during these periods of time. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention and scaffolding. 
+3. Most lessons involve some amount of practice through Ozaria. During some lessons students may end up working in pairs on these assignments. It is anticipated that some of the more advanced students will voluntarily mentor other students during this time as well. The curriculum also includes extension acitivities for students that finish early during these periods of time. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention and scaffolding. 
 
 #### Additional Assignment Considerations and School Culture
 
@@ -117,6 +126,8 @@ All electives were suspended when Chico Country Day transitioned to distance lea
 It is projected that the transition to distance learning for this elective would be much easier to accomplish than a typical general education class and that the computerized nature of this class would adapt well to either distance learning model. It is unclear if a teacher without a background in computer science could successfully complete this transition.
 
 #### Ethical and Social Issues
+
+These issues are immediately apparent. It is possible to mitigate some of these issues, but some of these issues may be unsolveable.
 
 1. Electives are taught as quarter or semester lengths at Chico Country Day. In the first and last quarter of the year 8th grade gets priority for choosing their electives. In the second quarter 7th grade gets priority and in the third semester 6th grade gets priority. With a year long elective, students in 6th and 7th grade may not end up having access to the elective. It is projected that the class will not be entirely full of 8th grade students, but this structure does create equity issues. This can be somewhat alleviated by running this elective for multiple years in a row, but **there will always be a group of younger students who may end up being excluded if this elective doesn't run each year.**
 
