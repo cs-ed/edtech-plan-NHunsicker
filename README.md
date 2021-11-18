@@ -23,7 +23,7 @@ This course will be taught as a single year long elective meeting 3 days per wee
 
 ### Situation
 
-Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past. 
+Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past, though we have not competed in one since 2019. It is hoped that this elective will also help support a return to these competitions.
 
 We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. We do have one to one chromebook access for all students, but chromebooks may experience slow down in later modules of Ozaria. I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
 
@@ -53,7 +53,7 @@ The teacher of this course could use any of the options below. Any operating sys
 
 1. Ozaria
 
-   This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is unclear whether we will be able to reach the end of this curriculum within a single school year, though I do not intend to try and have a second course currently.
+   This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
 
 3. Altitude Learning
 
@@ -89,7 +89,7 @@ A white board and accessories for writing pseudocode and making lists of ideas f
 
 #### Student Hardware
 
-Students will use chromebooks. Most chromebooks that the school has and issues will run Ozaria. Ozaria's primary instruction about chromebooks is that any chromebooks with only 2GB of RAM may experience minor graphics issues in later units.
+Students will use chromebooks. All chromebooks that the school has, and issues to distance learners, exceed the specifications to run Ozaria. Ozaria's primary instruction about chromebooks is that any chromebooks with only 2GB of RAM may experience minor graphics issues in later units.
 
 ### Application
 
@@ -97,17 +97,19 @@ Students will use chromebooks. Most chromebooks that the school has and issues w
 
 Classes will be a mixture of whole class discussion, small group discussion and research, and individual practice.
 
-Most topics and lessons will be introduced in a whole class discussion format. We will use slides provided by the curriculum, and modified by the teacher, to help guide us during this time. Many topics will also end with us returning to this format. We will be displaying these slides on a television or projector using the teacher computer.
+Most topics and lessons will be introduced in a whole class discussion format. We will use slides provided by the curriculum, and modified by the teacher, to help guide us during this time. Many topics will also end with us returning to this format for a recap of the skills that we practiced. This format should present an opportunity to front load any prior knowledge that students will need and also close with a recap of what the big ideas of the lesson were. We will be displaying these slides on a television or projector using the teacher computer.
 
 Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
 
-Most lessons involve some amount of practice through Ozaria. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention.
+Most lessons involve some amount of practice through Ozaria. During some lessons students may end up working in pairs on these assignments. It is anticipated that some of the more advanced students will voluntarily mentor other students during this time as well. The curriculum also includes extension acitivities for students that finish early during these periods of time. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention and scaffolding. 
 
-It is not anticipated that any homework will be assigned, though it is plausible that we would take 1 or 2 field trips that may require permission slips.
+#### Additional Assignment Considerations and School Culture
+
+It is not anticipated that any homework will be assigned, though it is plausible that we would take 1 or 2 field trips that may require permission slips. While not explicitly against the rules, homework within an elective seems like it would be considered outside of the norm. At Chico Country Day homework is not typically assigned outside of math practice and assigned readings for English class.
 
 It is not projected that we will have other types of assignments in this class.
 
-Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not typically include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so grade reporting will not be done. Assessment will be solely used to determine when to move into more advanced topics.
+Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so there will be no reporting of grades. --Assessment will be solely used to determine when to move into more advanced topics.-- Accountability is typically handled with direct parent contact when necessary and removal from the elective in extreme cases.
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
