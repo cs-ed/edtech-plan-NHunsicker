@@ -25,7 +25,7 @@ This course will be taught as a single year long elective meeting 3 days per wee
 
 Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past, though we have not competed in one since 2019. It is hoped that this elective will also help support a return to these competitions.
 
-We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. We do have one to one chromebook access for all students, but chromebooks may experience slow down in later modules of Ozaria. I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
+We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. **Chico Country Day has one to one chromebook access for all students.** I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
 
 At Chico Country Day electives are the last class period of the day on Tuesday, Wednesday, and Thursday afternoons. It is projected that we will have approximately 90 electives meetings within a school year and the selected curriculum is made up of 85 lessons. This will leave room for 1 or 2 field trips and/or space to provide additional work time if necessary.
 
@@ -37,37 +37,37 @@ At Chico Country Day electives are the last class period of the day on Tuesday, 
 
 The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. The primary website used for this course does NOT support iOS or Android. It is expected that students will be using chromebooks since students are provided access to chromebooks.
 
-1. Microsoft Windows
+**1. Microsoft Windows**
    
    The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
-2. Ubuntu 20.04 and 22.04
+**2. Ubuntu 20.04 and 22.04**
    
    Some amount of planning will be completed on this device. In the event that we go into distance learning I will transition to doing all of my presentations and planning from and on this OS.
 
-3. Chrome OS
+**3. Chrome OS**
    
    The students will be using chromebooks provided by the school. If we go into distance learning, then chromebooks will be checked out to families.
    
 #### Websites
 
-1. Ozaria
+**1. Ozaria**
 
    This will be the primary website that students will interact with in this course. Ozaria presents itself as a role playing game where you use python to complete various tasks and build things. This website also provides teacher resources that should allow a teacher without a background in computer science to effectively run this course. It is likely that we will finisht his curriculum within the school year.
 
-3. Altitude Learning
+**3. Altitude Learning**
 
    Altitude is our school adopted learning management system. I will use this software to push out instructions to students who may be absent or in quarantine.
 
-4. Google, Google Scholar, wikipedia, and Google Slides
+**4. Google, Google Scholar, wikipedia, and Google Slides**
 
    Some of the lessons are discussion based and don't have students interacting directly with Ozaria. In these lesson's we'll utilize Slides to help guide our discussions. We will also utilize Google, Google Scholar, and wikipedia to learn about the concepts presented in these lessons.
 
-5. Go Guardian
+**5. Go Guardian**
 
    During students interactive work on Ozaria I will need to monitor the class with Go Guardian. Go Guardian allows me to see what students are up to and limit off task behaviors.
 
-6. OBS Studio, Google Meet, and Google Jamboard
+**6. OBS Studio, Google Meet, and Google Jamboard**
    
    In the event that we go back into distance learning I will be utilizing these tools to create videos for students and to currate my presentations to students. OBS Studio allows me extensive control over my webcam since it can be used as a software defined webcam. I found more success using Google Meet than I did using Zoom during previous distance learning experiences, though it serves the same purpose. Google Jamboard provides a collaborative whiteboard workspace for the class.
 
@@ -75,11 +75,11 @@ The teacher of this course could use any of the options below. Any operating sys
 
 #### Teacher Hardware
 
-Any computer capable of running modern browsers and with ideally at least 4 GB of RAM. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables.
+Any computer capable of running **modern browsers** and with ideally at least **4 GB of RAM**. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables.
 
 #### Classroom Hardware
 
-The school currently has wifi available throughout the school. The internet connection appears to go through comcast at some point based upon traceroute command. Speed tests indicate that the speed should be more that sufficient for a class full of students working on this elective. A minimum of 200 Kbps bandwidth per student is required for Ozaria to function, though bandwidth in excess of 1 Mbps is recommended.
+The school currently has wifi available throughout the school. The internet connection appears to go through comcast at some point based upon traceroute command. Speed tests indicate that the speed should be more that sufficient for a class full of students working on this elective. A **minimum of 200 Kbps bandwidth per student is required for Ozaria to function**, though bandwidth in excess of 1 Mbps is recommended.
 
 Wired computer mice will be available to students who would prefer not to use touchpads.
 
@@ -89,7 +89,7 @@ A white board and accessories for writing pseudocode and making lists of ideas f
 
 #### Student Hardware
 
-Students will use chromebooks. All chromebooks that the school has, and issues to distance learners, exceed the specifications to run Ozaria. Ozaria's primary instruction about chromebooks is that any chromebooks with only 2GB of RAM may experience minor graphics issues in later units.
+Students will use chromebooks. All chromebooks that the school has, and issues to distance learners, exceed the specifications to run Ozaria. Ozaria's primary instruction about chromebooks is that any **chromebooks with only 2GB of RAM may experience minor graphics issues in later units**.
 
 ### Application
 
@@ -109,11 +109,7 @@ It is not anticipated that any homework will be assigned, though it is plausible
 
 It is not projected that we will have other types of assignments in this class.
 
-Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so there will be no reporting of grades. --Assessment will be solely used to determine when to move into more advanced topics.-- Accountability is typically handled with direct parent contact when necessary and removal from the elective in extreme cases.
-
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so there will be no reporting of grades. **Assessment will be solely used to determine when to move into more advanced topics.** Accountability is typically handled with direct parent contact when necessary and removal from the elective in extreme cases.
 
 ### Impacts
 
