@@ -37,7 +37,6 @@ At Chico Country Day electives are the last class period of the day on Tuesday, 
 The teacher of this course could use any of the options below. Any operating system that would be comfortable to use daily on a PC would be fine for this course. The primary website used for this course does NOT support iOS or Android. It is expected that students will be using chromebooks since students are provided access to chromebooks.
 
 **1. Microsoft Windows**
-   
    The school assigned laptop runs Microsoft Windows 10. This will likely only be used for presentation of any in class material and planning.
 
 **2. Ubuntu 20.04 and 22.04**
