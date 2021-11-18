@@ -104,15 +104,17 @@ Classes will be a mixture of whole class discussion, small group discussion and 
 
 #### Additional Assignment Considerations and School Culture
 
-- It is not anticipated that any homework will be assigned, though it is plausible that we would take 1 or 2 field trips that may require permission slips. While not explicitly against the rules, homework within an elective seems like it would be considered outside of the norm. At Chico Country Day homework is not typically assigned outside of math practice and assigned readings for English class.
+It is not anticipated that any homework will be assigned, though it is plausible that we would take 1 or 2 field trips that may require permission slips. While not explicitly against the rules, homework within an elective seems like it would be considered outside of the norm. At Chico Country Day homework is not typically assigned outside of math practice and assigned readings for English class.
 
-- It is not projected that we will have other types of assignments in this class.
+It is not projected that we will have other types of assignments in this class.
 
-- Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so there will be no reporting of grades. **Assessment will be solely used to determine when to move into more advanced topics.** Accountability is typically handled with direct parent contact when necessary and removal from the elective in extreme cases.
+Assessments will be handled within Ozaria itself. The teacher will be able to see student submissions within Ozaria and teachers lacking a background in computer science can compare answers to an answer key. Generally Ozaria will not let a student proceed to another task until they've successfully completed all prior tasks. At Chico Country Day we do not include grades for electives. Currently our learning management system, Altitude, does not appear to include the computer science standards, so there will be no reporting of grades. **Assessment will be solely used to determine when to move into more advanced topics.** Accountability is typically handled with direct parent contact when necessary and removal from the elective in extreme cases.
 
 ### Impacts
 
-#### Modifications and Accommadations for students with an IEP or 504
+#### Modifications and Accommodations for students with an IEP or 504
+
+Modifications and accommodations may be necessary to overcome the needs of some students.
 
 - The curriculum and software provides immediate and direct feedback to students both visually and with audio cues. Students who are visually impaired may struggle in this course as the curriculum does not appear to function without viewing a graphical display. Despite this, the curriculum does provide alternate offline versions of the lessons. **In the event that a visually impaired student takes this class I believe that it would be possible, with assistance of an education specialist, to modify the majority of the curriculum for some form of offline physical interaction.**
 
