@@ -68,7 +68,7 @@ The vast majority of the work that we do will be completed in websites. It is ex
 
 #### Teacher Hardware
 
-Any computer capable of running **modern browsers** and with ideally at least **4 GB of RAM**. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables.
+Any computer capable of running **modern browsers** and with ideally at least **4 GB of RAM**. Currently I plan on using my school provided laptop which exceeds these capabilities and my home PC that also exceeds these requirements. Specific requirements for the teacher's pc are lenient, but these requirements depend on many variables. The current teacher laptop features a core i5 cpu and 16GB of ram. The teacher's home PC has a core i7 and 32GB of ram.
 
 #### Classroom Hardware
 
