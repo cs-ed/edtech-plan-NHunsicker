@@ -25,7 +25,7 @@ This course will be taught as a single year long elective meeting 3 days per wee
 
 ### Situation
 
-Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past, though we have not competed in one since 2019. It is hoped that this elective will also help support a return to these competitions.
+Chico Country Day School is a K-8 charter school located in Chico, CA. Our middle school has approximately 180 students. Historically our middle school has had a robotics elective that is no longer taught. The purpose of this elective is to provide a similar outlet for students that are interested in developing computer science skills. Our school also has an esports team that has competed in capture the flag style hacking competitions in the past, though we have not competed in one since 2019. It is hoped that this elective will also help support a return to these competitions. There are also coding esports opportunities provided by the company that produces Ozaria.
 
 We will not have a dedicated computer lab. As such, students in this elective will be using chromebooks to complete the coursework. **Chico Country Day has one to one chromebook access for all students.** I believe that our class size will be between 10 and 28 students. Class size will be determined by student interest, the maximum size of other electives, and budget constraints.
 
@@ -88,7 +88,7 @@ Students will use chromebooks. All chromebooks that the school has, and issues t
 
 ### Application
 
-#### Class Structure
+#### Overall Class Structure
 
 Classes will be a mixture of whole class discussion, small group discussion and research, and individual practice.
 
@@ -97,6 +97,14 @@ Classes will be a mixture of whole class discussion, small group discussion and 
 2. Some lessons will have students working in groups to research ideas and concepts. These groups will then bring their findings back to the class for discussion. During this period of time students will be using chromebooks to do this research. It is anticipated that students will start with google, google scholar, or wikipedia and branch into other sources as necessary during this time. During this period of time the teacher will monitor go guardian for off task behaviors while also moving between groups to help guide discussions.
 
 3. Most lessons involve some amount of practice through Ozaria. During some lessons students may end up working in pairs on these assignments. It is anticipated that some of the more advanced students will voluntarily mentor other students during this time as well. The curriculum also includes extension acitivities for students that finish early during these periods of time. Students will use chromebooks for this work. Students may also choose to use personal headphones during this period of time to make their interactions with Ozaria more immersive. During this period of time the teacher will monitor go guardian for off task behaviors while seekings out students who may need more 1 on 1 intervention and scaffolding. 
+
+4. Each chapter has a capstone project which can be used as a summative assessment. The curriculum provides solutions and grading rubrics for teachers who do not have a computer science background.
+
+#### Typical Class Work Flow
+
+Most lessons will take two days to complete. The first day of a lesson will start with a review of the last session and then primarily focus on whole class discussion of the primary concepts ofthe lesson. Google slides will help guide the discussion with day to day examples of where concepts are seen. For example, when introducing problem decomposition we will look at the "sub-goals" necessary to bake and decorate a cake. After looking at real world examples, we will look at examples within Ozaria. For example, when looking at debugging we will look at how errors in our code show up Ozaria. In many lessons there will be opportunities for small groups to work together to further their understanding of the concepts through discussion and graphic organizers.
+
+The second day of most lessons will focus on completing levels in Ozaria. Students will work at their own pace through the assigned levels of Ozaria. During this period of time students will be able to consult with and advise each other. The teacher will move through the room answering questions and supporting students when necessary. The last 10 minutes of class will reflect on what they did, what they noticed, and what was challenging. These reflections will be kept as a journal across the class so that students can see what they've learned. It is expected that the teacher will conduct formative assessments during these sessions by observing students' work. Students who are unable to complete a level successfully are unable to move forward with the next level. The current level students are at, comparison to a known solution, and viewing number of attempts to successfully complete a level can all be factored into formative asessment.
 
 #### Additional Assignment Considerations and School Culture
 
