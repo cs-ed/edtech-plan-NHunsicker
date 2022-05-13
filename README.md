@@ -6,6 +6,11 @@ This Educational Technology Plan provides an outline for implementing a new intr
 | ---------------- | --------------- |
 | ![CCDS Logo](https://www.chicocountryday.org/wp-content/uploads/ccds-color.png)  | ![Ozaria Logo](https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg) |
 
+<p align="center">
+   <img src="https://www.chicocountryday.org/wp-content/uploads/ccds-color.png" width="300">
+   <img src="https://code.org/images/fill-480x360/tutorials/hoc2021/codecombat_ozaria.jpg" width="300">
+</p>
+
 
 ## Context
 
